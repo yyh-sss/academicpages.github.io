@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a undergraduate steudent from ZheJiang University.
+I'm a undergraduate student from ZheJiang University.
